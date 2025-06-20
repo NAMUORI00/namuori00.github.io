@@ -1,4 +1,6 @@
 baseURL = "https://blog.namuori.net"
 languageCode = "en-us"
-title = "나무오리"
+title = "My New Hugo Site"
 theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
