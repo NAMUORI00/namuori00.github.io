@@ -11,7 +11,7 @@ const userConfig: UserConfig = {
             //     target_folder: 'path/relative/to/content/folder'
             // }
             {
-                page_id: '45eb121158b9489480ec000fd25c812b',
+                page_id: '218dcd44779f81169bcedf9476baf73b',
                 target_folder: '.'
             }
         ],
@@ -21,11 +21,11 @@ const userConfig: UserConfig = {
             //     target_folder: 'path/relative/to/content/folder'
             // }
             {
-                database_id: 'b7b1816c05ec464391c8c111fa242985',
+                database_id: '218dcd44779f81ddbf93e4fadbccbfde',
                 target_folder: '.'
             }
         ],
     }
 }
 
-export default userConfig;c
+export default userConfig;
