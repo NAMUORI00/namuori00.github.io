@@ -1,8 +1,8 @@
 ---
 title: "New Post 테스트"
 date: "2025-06-20T03:28:00.000Z"
-lastmod: "2025-06-20T03:58:00.000Z"
-draft: true
+lastmod: "2025-06-20T04:47:00.000Z"
+draft: false
 series:
   - "getting-start"
 authors:
@@ -15,7 +15,7 @@ NOTION_METADATA:
   object: "page"
   id: "218dcd44-779f-802e-bb2d-d8740f4a7bb9"
   created_time: "2025-06-20T03:28:00.000Z"
-  last_edited_time: "2025-06-20T03:58:00.000Z"
+  last_edited_time: "2025-06-20T04:47:00.000Z"
   created_by:
     object: "user"
     id: "f96e6171-8ea1-4a4a-82e4-72ba4441b8c0"
@@ -40,7 +40,7 @@ NOTION_METADATA:
     draft:
       id: "JiWU"
       type: "checkbox"
-      checkbox: true
+      checkbox: false
     authors:
       id: "bK%3B%5B"
       type: "people"
@@ -73,7 +73,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-06-20T03:58:00.000Z"
+      last_edited_time: "2025-06-20T04:47:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
