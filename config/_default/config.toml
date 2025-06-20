@@ -7,6 +7,11 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
+
+  author = "Kim Yu Seok"
+  github = "NAMUORI00"
+  Description = "I love github fork"
+
   headerIcon = "/images/github-icon.svg"
   avatar = "https://avatars.githubusercontent.com/u/46620366"
 
