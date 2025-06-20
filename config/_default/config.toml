@@ -24,3 +24,8 @@ pygmentsUseClasses = true
     title = "Another-Org"
     href = "https://github.com/another-org"
     icon = "/images/another-org-icon.png" # static/images/ 에 위치한 아이콘
+
+# Hugo Mounts Configuration
+[[module.mounts]]
+source = "content/About-218dcd44779f81169bcedf9476baf73b.md"
+target = "content/readme.md"
