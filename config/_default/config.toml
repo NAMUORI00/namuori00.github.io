@@ -12,7 +12,7 @@ pygmentsUseClasses = true
   github = "NAMUORI00"
   Description = "I love github fork"
 
-  headerIcon = "/images/github-icon.svg"
+  headerIcon = "https://raw.githubusercontent.com/NAMUORI00/Blog/main/static/images/github-icon.svg"
   avatar = "https://avatars.githubusercontent.com/u/46620366"
 
   [[params.links]]
