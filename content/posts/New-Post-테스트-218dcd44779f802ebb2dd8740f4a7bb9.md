@@ -1,18 +1,21 @@
 ---
-title: "New Post"
+title: "New Post 테스트"
 date: "2025-06-20T03:28:00.000Z"
-lastmod: "2025-06-20T03:28:00.000Z"
+lastmod: "2025-06-20T03:58:00.000Z"
 draft: true
-series: []
+series:
+  - "getting-start"
 authors:
   - "KYS"
-tags: []
-categories: []
+tags:
+  - "configuration"
+categories:
+  - "documentation"
 NOTION_METADATA:
   object: "page"
   id: "218dcd44-779f-802e-bb2d-d8740f4a7bb9"
   created_time: "2025-06-20T03:28:00.000Z"
-  last_edited_time: "2025-06-20T03:28:00.000Z"
+  last_edited_time: "2025-06-20T03:58:00.000Z"
   created_by:
     object: "user"
     id: "f96e6171-8ea1-4a4a-82e4-72ba4441b8c0"
@@ -30,7 +33,10 @@ NOTION_METADATA:
     series:
       id: "B%3C%3FS"
       type: "multi_select"
-      multi_select: []
+      multi_select:
+        - id: "fce3601a-6e5b-4d10-a699-6052e5ec90f7"
+          name: "getting-start"
+          color: "yellow"
     draft:
       id: "JiWU"
       type: "checkbox"
@@ -53,15 +59,21 @@ NOTION_METADATA:
     tags:
       id: "jw%7CC"
       type: "multi_select"
-      multi_select: []
+      multi_select:
+        - id: "b1db1d47-c51c-4bbf-b482-b7f31dd3ff0f"
+          name: "configuration"
+          color: "green"
     categories:
       id: "nbY%3F"
       type: "multi_select"
-      multi_select: []
+      multi_select:
+        - id: "nrY:"
+          name: "documentation"
+          color: "red"
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-06-20T03:28:00.000Z"
+      last_edited_time: "2025-06-20T03:58:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -72,7 +84,7 @@ NOTION_METADATA:
       title:
         - type: "text"
           text:
-            content: "New Post"
+            content: "New Post 테스트"
             link: null
           annotations:
             bold: false
@@ -81,11 +93,14 @@ NOTION_METADATA:
             underline: false
             code: false
             color: "default"
-          plain_text: "New Post"
+          plain_text: "New Post 테스트"
           href: null
   url: "https://www.notion.so/New-Post-218dcd44779f802ebb2dd8740f4a7bb9"
   public_url: "https://namuori00.notion.site/New-Post-218dcd44779f802ebb2dd8740f4a7bb9"
 MANAGED_BY_NOTION_HUGO: true
 
 ---
+
+
+글 테스트
 
